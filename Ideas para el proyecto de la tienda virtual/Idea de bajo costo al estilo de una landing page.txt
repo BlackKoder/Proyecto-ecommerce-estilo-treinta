@@ -1,0 +1,51 @@
+Idea estilo landing page
+
+Esta idea es muy práctica y cómoda, se supone que es un sitio web estático en el que se va a colocar distintos datos de forma centralizada, el objetivo es hacer todo en una sola pagina, pero dividida en secciones que recorren o se desplazan tanto arriba como abajo de la pagina. 
+
+Objetivos de la landing
+
+Las landing están diseñadas para poder mostrar un producto de un negocio o empresa, que se esté promocionando y que este pueda ser visto por el cliente y a su vez pueda causar algún tipo de interacción, a parte de poseer información institucional como redes sociales y datos de contacto para concretar una venta directa de un producto. En este caso la idea del e-commerce con una landing es minimizar costos.
+
+Beneficios de esta idea
+
+* Bajo costo: Al ser un sitio web estático se puede hostear en un sitio como Github Pages o Netlify, cosa que es natural teniendo en cuenta que se va a usar Git. 
+
+* Se puede hacer simplemente una galería de imagenes, con un botón que redireccione a whatsapp y mande un mensaje automático pidiendo el producto seleccionado en la imagen
+
+* Es una opción práctica porque no hay que redireccionar de un sitio a otro, todo está en una sola pagina
+
+* Hace una conexión directa con todas las redes sociales del negocio por lo que hace un buen trabajo de marketing, porque al final de las redes sociales del negocio pueden ir directo a la pagina y de la pagina pueden ver las demás redes sociales, por lo que pueden ver sus demás publicaciones y promociones por lo que los hace conseguir clientes de distintas fuentes
+
+Contras
+
+* No se van a poder registrar usuarios por lo que no se va a tener un control personalizado de lo que quiere cada cliente, va a haber mucho más desorden
+
+* Al no poseer base de datos, para poder cargar los productos se tendría que necesitar de los desarrolladores cada semana para poder cargar los productos, puesto que se necesitan conocimientos técnicos para poder cambiar archivos HTML y manejar un repo de Github
+
+* Se ve poco profesional
+
+
+Cómo puede estar estructurada? 
+
+Normalmente se divide en varias secciones, pero lo ideal es que no pase de 6 secciones, tiene un menú de navegación o navbar para poder movilizarse o desplazarse por los distintos lugares de la pagina, se puede colocar un botón de ir arriba para volver al menú o se puede hacer un sticky navbar que es un navbar que está fijo en la pantalla.
+
+Se tiene una sección de hero o banner que es donde se hace una especie de presentación publicitaria del sitio para llamar la atención del cliente
+
+Se coloca una sección hablando sobre el negocio, su visión, trayectoria y a qué se dedican
+
+Se habla de los productos, se categorizan y se colocan en una galería con efecto overlay para poder poner una descripción junto con un botón que redirecciona a whatsapp y manda un mensaje automático referente a ese producto en específico de forma individual
+
+Se puede poner una sección de productos más destacados para llamar la atención del cliente
+
+Se puede hacer un enganche colocando todas las redes sociales e incitando al cliente a que siga las redes
+
+Consideraciones: Es ideal colocar animaciones atractivas para que este tipo de pagina destaque, sin embargo no es 100% una solución para un negocio con cargas de producto grandes
+
+Costos
+
+120$ 
+
+El hosting se puede conseguir gratis
+
+El dominio debe de incluirse a parte, y es obligatorio tenerlo si se quiere colocar como resultados de búsqueda en google search
+

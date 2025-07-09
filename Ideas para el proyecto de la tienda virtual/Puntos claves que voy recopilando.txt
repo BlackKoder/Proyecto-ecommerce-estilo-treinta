@@ -1,0 +1,13 @@
+La premisa es hacer una pagina web de compras, un producto con un precio hasta agotar la existencia, él dice de que va a cargar los productos semanal, o hasta acabar la existencia Y van a hacer ofertas y hasta que esa no salga no la va a cambiar y así.
+
+La referencia del proyecto es 30 shop
+
+El sujeto quiere que se mande el link directamente a whatsapp
+
+Lo que busca el cliente es generar una intereacción y conexión con el cliente a través de un portal web para que se pueda hacer un negocio directo de manera totalmente en línea
+
+Los sistemas de gestión fiscal son a nivel interno y no tiene nada que ver con la pagina que vamos a hacer, ya eso sería otra cosa a parte
+
+Ellos trabajan la mayoría de balances con excel, tiene un trabajador informal que lo que el venda en la semana en la tienda, el tipo lo trabaja por fuera, pero es informal
+
+Esas personas tienen otros negocios por otras partes en los que venden distintas cosas.

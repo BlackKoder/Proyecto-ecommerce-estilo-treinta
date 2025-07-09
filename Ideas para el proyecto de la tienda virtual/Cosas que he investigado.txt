@@ -1,0 +1,101 @@
+Al parecer si se puede implmentar la idea low-cost que vendría siendo la de la galería con interacción directa en whatsapp, se puede hacer una pagina estática que genere contenido dinámico con Next.js 
+
+Con Headless CMS como contentful
+
+Contentful es un CMS que puede usar archivos bien sean imagenes, vídeos, etc. Y tenerlos organizados y listos para usar, para luego ser usado en una API que luego puede ser usada en otra interfaz web
+
+Las ventajas de Contentful son:
+
+* Se puede escalar a cualquier tipo de proyecto, en el sentido de que como se puede integrar a cualquier plataforma que esté descentralizada es más fácil manejar ese contenido a donde uno quiera
+
+* Se puede usar casi con cualquier tecnología
+
+* El contenido puede ser reutilizado y modificado 
+
+Strapi
+
+Strapi es lo mismo que contentful pero con la única diferencia de que es autohosteable y de código abierto.
+
+A diferencia de contentful, Strapi te deja subir tu CMS a dónde quieras bien sea a servidores en la nube como AWS, Azure, Google Cloud, Heroku, Digital Ocean. O en un proveedor de hosting, que esto nos da el control de los datos y la infraestructura.
+
+Cómo funciona? 
+
+Strapi te deja usar una interfaz fácil de usar, para los equipos de contenido, donde pueden crear y gestionar todo tipo de contenido. Luego este tipo de contenido se pueden exponer a través de APIs como REST y GraphQL
+
+Ventajas 
+
+* Flexibilidad total
+
+* Perosonalización extrema
+
+* Es gratis (Ojo el hosting depende de uno pero strapi es open source)
+
+* Está construido con Node y JS lo que da más facilidad de trabajo considerando que se va a desarrollar una interfaz web
+
+
+Netlify CMS
+
+Este es lo mismo que los demás, pero la diferencia es que todo el código y demás se almacena en Git
+
+Normalmente los datos de este Headless se almacenan en un JSON o Yaml que se puede gestionar desde el mismo git, lo que quiere decir que no hay necesidad de base de datos, puesto que todo se almacena en un JSON y se genera a partir de estos datos guardados, es mucho más práctico teniendo en cuenta que ya habría un repo en github 
+
+Netlify CMS es una SPA o aplicación de una sola pagina que está hecha en JS, uno la puede integrar directamente al proyecto usando Next.js, Gatsby, Hugo, Jekyll...etc. 
+
+Ventajas
+
+* No hay base de datos
+
+* Seguridad mejorada al no tener base datos no hay nada que proteger
+
+* Aparentemente es gratuito
+
+
+Sanity.io 
+
+Este es igual pero tiene una diferencia, todo puede ser estructurado en tiempo real y de forma portable
+
+Por lo que tengo entendido, con Sanity.io se puede menejar los datos en un JSON a tiempo real
+
+Es portable, sanity te hace descomponer tu proyecto en piezas más pequeñas para luego poder reutilizarlo de otra forma
+
+Al parecer trabaja con GraphQL
+
+Es de código abierto
+
+
+
+
+Otras consideraciones se puede usar una hoja de cálculo de excel como si fuera un JSON para hacer una API y que se pueda generar contenido a partir de los datos guardados en esta hoja de cálculo que puede ser manejada con Google sheets
+
+
+
+Parece que una pasarela de pago común en el país es pagoBDV, una integración del banco de venezuela a un botón de un sitio web estilo tienda en línea
+
+Bancaamiga prestashop, esta también es una opción local
+
+
+Análisis de la aplicación de treinta
+
+Tiene distintos apartados, entre ellos hay uno que te deja ver un balance de ingresos y egresos 
+
+*las ventas y los gastos, 
+
+*hay una sección de deudas, por cobrar y pagar 
+
+*Hay una sección de cargar inventario, en esta sección de inventario te deja subir una imagen, cargar a través de un código de barras, hay distintos campos como nombre precio, costo, etc. Descripción.
+
+En la aplicación también especifica que hay varios métodos de pago como tarjeta, efectivo, transferencia, binance, zelle
+
+Tiene una sección con estadísticas pero es premium 
+
+Tiene un apartado con clientes 
+
+Tiene un apartado con empleados
+
+Catálogo virtual
+
+Gestionar pedidos
+
+Proveedores
+
+Mi conclusión de esta aplicación es que es una herramienta muy útil para agarrar información que está diversificada y centralizarla en un solo lugar para poder gestionar mejor el tiempo y visualizar todo de una forma mucho más cómoda práctica y rápida. Eso sería lo ideal para el proyecto que nos están mandando a hacer

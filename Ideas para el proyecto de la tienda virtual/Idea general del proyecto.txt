@@ -1,0 +1,18 @@
+Idea general del proyecto
+
+Se busca realizar un e-commerce para poder gestionar los productos de una tienda de forma en línea, centralizar datos que están diversificados en distintas fuentes para organizarlos y poder visualizarlos de forma más rápida y práctica para así gestionar mejor el tiempo de trabajo, mejorar la productividad y en definitiva aumentar las ventas. Teniendo en cuenta que al tener una presencia en línea habrá más posibilidades de vender más.
+
+Características principales que busca el cliente
+
+* Cargar productos semanalmente
+
+* Poner productos en oferta
+
+* Colocar precios
+
+* Modificarlos
+
+* Eliminar
+
+Hacer una gestión completa de todo el contenido y productos que haya en la tienda como la interacción con los usuarios para poder concluir ventas de forma más efectiva.
+

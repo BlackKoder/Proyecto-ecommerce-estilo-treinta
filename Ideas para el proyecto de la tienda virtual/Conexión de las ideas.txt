@@ -1,0 +1,22 @@
+Puede que los sistemas de gestión fiscal sean internos, pero independientemente, hay algunos pequeños datos que se tienen que recabar de esa infraestructura para que se puedan conseguir algunos resultados en cuanto a la venta, como el iva por ejemplo.
+
+Lo que nos lleva a la pregunta, tienen algún sistema de gestión interno de facturación fiscal y demás?
+
+
+Teniendo en cuenta que esas personas tienen otros negocios que trabajan por seprado, por qué no hacer un sistema de gestión y administración que centralice y englobe todo lo que hacen para que puedan hacer cálculos más directos y con menos complicaciones
+
+Al final el dinero se consigue por medio de la productividad, pero eres más productivo si sabes cómo gestionar tu tiempo, lo que nos lleva a la ecuación que a mayor dinero y menor tiempo es igual a mayor valor, es e es el punto que hay que meterles en la cabeza como para que se sientan atraídos por la idea de hacer un trabajo grande
+
+Hacer todos esos balances por excel no quiere decir que no se puedan automatizar, se puede implementar hacer un script o una fórmula que les ayude a manejar los balances de una forma más eficaz, o en su defecto hacer un sistema que genere los balances en formato de hoja de excel y que este pueda ser mandado de forma automática a un chat de whatsapp, bien sea tanto en computadora como en teléfono
+
+Que se busque de mandar cuál es el producto seleccionado, a través de whatsapp de forma automática no significa que no se pueda aplicar métodos de pago dentro de la misma página, pero llego a la hipótesis de que buscan de evadir cargos legales y gestión jurídica para no tener que enrollarse con hacer políticas de privacidad y términos de uso. A parte de tener que rendir cuentas en el registro y que les cobren más plata de lo normal (Obviamente porque son un negocio y a nadie le gusta perder tanto dinero en un negocio)
+
+Ahora, yo opino que quieren generar algún tipo de interacción con sus clientes proporcionando una presencia en línea, eso me hace pensar que tienen en cuenta la importancia y el alcance que pueden tener los negocios en la web. Y de las oportunidades que están desaprovechando por no tenerlo, es una oportunidad para hacerse conocer, tener todo centralizado, organizado y sistematizado. Sería estúpido no tener como mínimo una landing para poder ofrecer sus productos y generar más ventas
+
+Mi lógica me hace pensar que teneiendo en cuenta que buscan un simple e-commerce ordinario.... Igualmente si escogieran la opción de la landing, ellos tendrían que buscarnos a nosotros para que estemos subiendo el contenido nuevo a la pagina cada semana, porque teniendo en cuenta que Github pages y Netlify no soportan lenguajes del lado del backend, y que tampoco soportan bases de datos, entonces tendríamos que hacerlo nosotros manual de forma que se manipule directamente con el HTML 
+
+Cosa que ellos no van a querer, porque al final no nos van a pagar semanal para que estemos subiendo productos de forma estática, a parte de que sería un trabajo abrumador y monótono, ellos gastarían más plata a la larga, por lo que se verían más bien en la obligación de optar por manejar todo con una base de datos, cargar los productos en la base de datos, para que todo pueda ser generado de forma dinámica
+
+La única forma de que la landing sea viable es que se pueda generar los productos sin la necesidad de la base de datos, como en el caso de usar el local storage del navegador para que se guarden los datos de forma local, pero no sirve porque igual se va a ver a nivel de cliente de forma individual y los cambios no van a ser de forma global, a parte de que el local storage tiene un límite de almacenamiento en memoria
+
+En caso de seguir los canones regulares de toda la vida y usar la base de datos y el lenguaje de backend como se debería hacer para un sitio dinámico.... La verdadera pregunta surge del cómo se manejan los métodos de pago? Cómo se gestiona? Qué se utilizará?

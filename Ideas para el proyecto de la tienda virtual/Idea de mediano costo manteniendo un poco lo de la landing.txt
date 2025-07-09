@@ -1,0 +1,17 @@
+Este sitio web se caracteriza por mantener la esencia de la landing page, pero un poco más extendido es decir puede tener muchas más secciones, redireccionamiento on page del sitio web para que muestre otro tipo de contenido, un proyecto mucho más estructurado y con la peculiaridad de que va a actuar como un e-commerce. Solo que aquí si se va a poder hacer algo de la misma forma que como se haría con una base de datos.
+
+Esta opción incluye usar frameworks generadores de paginas estáticas como Next, Gatsby, jekyll.. etc. para poder usar un Handle CMS que guardará el contenido en un JSON para ser reutilizado en una API, esto hará que la necesidad de una base de datos sea innecesaria, puesto que se obtienen los datos del mismo JSON y se modifican del mismo JSON a través de la API.
+
+Ventajas
+
+* Sigue siendo algo barato
+
+* Es una opción igualmente práctica para el usuario
+
+* Se tiene un mejor control de los productos, se organiza todo mejor 
+
+La constitución del sitio está caracterizado por 
+
+Similar al de la landing pero todo más organizado y siguiendo lo necesario que necesita un e-commerce, incluyendo las necesidades del cliente como el incluir los productos de forma dinámica, colocar precios, hacer ofertas.. etc. 
+
+Para poder llevar a cabo este sitio se necesita utilizar un framework generador de paginas estáticas, y un headless CMS

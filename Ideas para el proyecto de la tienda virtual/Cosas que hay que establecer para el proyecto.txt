@@ -1,0 +1,18 @@
+Tenemos que conseguir los detalles de lo que quieren hacer y hacer una descripción de lo que buscan esas personas para el negocio.
+
+Hacer Wireframes para tener un esquema de lo que va a ir en la pagina
+
+Hacer un mockup para tener en cuenta más o menos cómo va a ser el diseño
+
+Se tiene que aprovechar de hacer un repo de github para compartir los archivos que se van a utilizar
+
+Preferiblemente utilizar una herramienta como Trello para gestionar las tareas y la planificación del proyecto
+
+Pensar en las necesidades que tienen como negocio para poder hayar una solución a su problema
+
+Pensar como diseñador todo lo que tiene que ver con interfaz de usuario y la experiencia de usuario, tener como mayor imperancia eso.
+
+No solamente ver sus necesidades y atenderlas, sino ver más allá y enlazar con otras cosas como para poder darles una visión más grande y poder conseguir el enlace a escalar el proyecto. Hay que darle la vuelta a las cosas.
+
+
+Definir la versión más pequeña y pobre del proyecto, y definir la versión más ideal hasta la más cara
