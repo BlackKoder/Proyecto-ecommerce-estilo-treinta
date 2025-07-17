@@ -1,0 +1,70 @@
+Cosas que debe tener la pagina con Next y JSON
+
+Un panel de administrador
+
+En el panel de administrador debe de haber un sistema de login para detectar que es la persona encargada de llevar la tienda virtual
+
+Se debe de poder hacer operaciones tipo Crud, crear leer actualizar y eliminar
+
+Al crear el producto se debe de 
+
+En los productos debe de poder establecer un título
+
+La imagen del producto
+
+El precio, tanto en $ como en Bs
+
+Una descripción 
+
+Colocar si está en oferta o no, colocar el porcentaje 
+
+A la hora de actualizar
+
+Poder modificar cualquiera de los campos anteriores, pero sobre todo poder manejar las ofertas a conveniencia, es decir tener la opción de: 
+
+*colocar las ofertas a todos los artículos por igual, es decir un porcentaje para todos a la vez
+
+*modificarlos uno por uno 
+
+*modificar todos y luego modificar algunos pocos a su antojo 
+
+En la parte de la eliminación
+
+Poder eliminar cualquiera de los item deseados, pero colocar una advertencia, en caso de ser una equivocación
+
+En la parte de lectura por parte del administrador, se debe de poder visualizar una vista previa de qué es lo que ve el cliente una vez publicado el producto
+
+
+Se debe tener la opción de cargar varios productos y planificar una fecha para que se muestre automáticamente para esas fechas
+
+El panel de administrador también debe de tener una sección
+
+
+Al crear un producto u visualizarlo del lado del cliente, sería buena la idea de crear un algoritmo mostrando productos que se relacionan con el producto creado para que pueda generar interés en el consumidor
+
+
+
+Lo que se va a ver por el lado del cliente, la vista que va a tener:
+
+Empezamos en la home page, esta debe de tener principalmente los artículos que están en oferta durante la semana, debe de haber una sección de categorías para categorizar los productos que estén en la home page, se debe de poder ingresar a cualquiera de los productos para tener más detalles, los productos deben de estar en tarjetas en las que se ven sus precios.
+
+En los detalles del producto, se debe de ver tal cuál como lo mostró la vista previa del panel de administrador, se debería de poder mostrar la unidad que desea comprar y cuántos están disponibles, incluyendo el botón de compra que redirecciona a los detalles de la compra, y luego información básica del local como un botón que redirecciona al whatsapp del negocio para poder confirmar todo 
+
+Tecnologías que podrían ser usadas a la hora de trabajar con la tienda virtual de Next
+
+HTML
+CSS
+JS
+Node.js
+Express o NestJS
+React
+Next.js
+Strapi
+Json
+Tailwind o Bootstrap
+PostgreSQL o Mongo
+
+Se puede alojar en Vercel
+Y usar Render para el backend
+
+Supuestamente tanto en Vercel como Render el alojamiento es gratis

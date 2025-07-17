@@ -1,0 +1,2 @@
+En el caso de un e-commerce hecho con next y strapi, ya hay sitios de tienda virtual de bajo nivel que funcionan de esa manera
+
