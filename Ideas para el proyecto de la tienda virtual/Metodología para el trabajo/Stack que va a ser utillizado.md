@@ -4,7 +4,7 @@
 
 ## Next.js
 
-![Logo de Next.js](https://raw.githubusercontent.com/vercel/next.js/canary/docs/public/images/nextjs-logo.png)
+![Logo de Next.js](https://pngate.com/wp-content/uploads/2025/05/next-js-logo-black-text-green-background-modern-design-1.png)
 
 Este se utilizará para poder generar el contenido y aplicar buenas prácticas de SEO en el front-end. Obviamente funciona en combinación con React, y se va a poder utilizar componentes para trabajar más rápido
 
