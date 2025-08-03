@@ -4,7 +4,7 @@
 
 ## Next.js
 
-![Logo de Next.js](https://raw.githubusercontent.com/vercel/next.js/canary/docs/public/images/nextjs-logo.png)
+![Logo de Next.js](https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg)
 
 Este se utilizará para poder generar el contenido y aplicar buenas prácticas de SEO en el front-end. Obviamente funciona en combinación con React, y se va a poder utilizar componentes para trabajar más rápido
 
@@ -24,13 +24,13 @@ Este nos sirve como una lista de componentes ya prefabricados para trabajar con 
 
 ## Strapi
 
-![Logo de Strapi](https://mms.businesswire.com/media/20250513073644/en/2466232/22/Strapi.full.logo.dark.jpg)
+![Logo de Strapi](https://www.vocso.com/blog/wp-content/uploads/2024/06/strapiheadlesscms.png)
 
 Hay suficiente documentación e información en internet para poder hacer el proyecto con este Headless CMS, además de que es open source y tiene una GUI que es fácil de administrar a nivel de usuario, a parte de que se puede utilizar su API para el backend
 
 ## Insomnia
 
-![Logo de Insomnia](https://images.seeklogo.com/logo-png/48/1/insomnia-logo-png_seeklogo-489676.png)
+![Logo de Insomnia](https://spin.atomicobject.com/wp-content/uploads/insomnia.jpg)
 
 Es un software que nos puede permitir tener una GUI para poder trabajar con la API de strapi, tiene una conexión directa por lo que manejar el backend se hará de forma mucho más efectiva así, y se podrán manejar los objetos JSON
 
